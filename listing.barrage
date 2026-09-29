@@ -1,0 +1,36 @@
+# wishing_well_st
+
+> An early HTML repo named wishing_well_st. This wrap points back to the source.
+
+## Purpose
+Give a plain-language door to fitzyracing1/wishing_well_st.
+
+## How it works (plain English)
+1. Keep the original repo as the place for files.
+2. Use this clone to explain the idea.
+3. Send the reader back to the source.
+
+## Key ideas
+- wishing well (the named shelf)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/wishing_well_st
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/wishing_well_st”
+
+## Decisions the program makes
+- If a reader needs the files → send them to the source
+
+## What a person would notice
+A named wrap on a wishing-well door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source.
